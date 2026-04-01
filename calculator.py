@@ -8,4 +8,4 @@ Git Lab TODO (충돌 유도 지점)
 
 def calculate(a, b):
     # 기본 구현(현재는 덧셈). 실습 중 이 라인을 서로 다르게 바꾸게 됩니다.
-    return a + b
+    return a - b
